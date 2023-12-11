@@ -46,8 +46,3 @@ Follow these steps to embark on your database normalization journey:
 
 - **/tests:** Access the MCQ test under the 'Predict' tab of Athena.
 
-## Contributing
-
-Feel free to contribute by improving the normalization process, adding use-case considerations, or suggesting enhancements. Open a pull request, and let's make the Bhejane Trading Store database as efficient as possible!
-
-Good luck, SQL ninja! May your queries be sharp and your tables well-structured.
